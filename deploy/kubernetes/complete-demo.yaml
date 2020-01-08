@@ -173,7 +173,7 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      name: catalouge
+      name: catalogue
   template:
     metadata:
       labels:
